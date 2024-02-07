@@ -21,7 +21,9 @@ enhancements and scalability of this project, providing insights into further ad
 real-world applications of gesture-controlled interfaces powered by the ATMega328P
 microcontroller.
 
-Aim: To control LED with ATMega328p using hand detection in python
+Aim: To control LED with ATMega328p using hand detection in Python.
+
+   <img width="642" alt="Screenshot 2024-02-07 at 7 38 10 PM" src="https://github.com/Aditi-2903/Gestured-LED-Ambiance/assets/103983801/8e4cc0c8-bb2f-4ca1-8dd8-66179d78c2ac">
 
 Components:
 1. ATmega328p:
@@ -31,9 +33,9 @@ The standalone circuit utilizes a 16MHz crystal oscillator. It is programmed usi
 USB 2.0 to TTL UART serial converter module.
 2. Onboard CP2102 USB to RS232/TTL interface conversion chip:
 Onboard power light. Onboard USB male head, convenient to connect to the computer. RX/TX
-pins have led notification and facilitate communication with microcomputer. Built-in USB to
+pins have led notification and facilitate communication with the microcontroller. Built-in USB to
 RS232 transfer chip. Designed to be used for USB to TTL electronic projects. TTL interface
-output, is easy to connect to your MCU. Dual 3.3V and 5V Power output, work with 3.3V and 5v
+output is easy to connect to your MCU. Dual 3.3V and 5V Power output, work with 3.3V and 5v
 target device. Compact design.
 3. LEDs:
 Used as visual indicators to convey system status or specific events, enhancing user awareness.
