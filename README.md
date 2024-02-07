@@ -46,7 +46,7 @@ preventing electrical issues.
 6. Jumper Wires (as required):
 Provides flexible connections between components on the breadboard for easy prototyping.
 
-<img width="747" alt="Screenshot 2024-02-07 at 7 36 39 PM" src="https://github.com/Aditi-2903/Gestured-LED-Ambiance/assets/103983801/7a459e03-0d0a-4fe0-992c-0f6dc0139b50">
+   <img width="747" alt="Screenshot 2024-02-07 at 7 36 39 PM" src="https://github.com/Aditi-2903/Gestured-LED-Ambiance/assets/103983801/7a459e03-0d0a-4fe0-992c-0f6dc0139b50">
 
 
 SOFTWARE:
