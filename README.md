@@ -20,3 +20,28 @@ challenges encountered, and the achieved results. Additionally, it delves into t
 enhancements and scalability of this project, providing insights into further advancements and
 real-world applications of gesture-controlled interfaces powered by the ATMega328P
 microcontroller.
+
+Aim: To control LED with ATMega328p using hand detection in python
+
+Components:
+1. ATmega328p:
+Serves as the core 8-bit microcontroller for processing and controlling the overall functionality of
+the system, managing data flow, and interfacing with other components.
+The standalone circuit utilizes a 16MHz crystal oscillator. It is programmed using the CP2102
+USB 2.0 to TTL UART serial converter module.
+2. Onboard CP2102 USB to RS232/TTL interface conversion chip:
+Onboard power light. Onboard USB male head, convenient to connect to the computer. RX/TX
+pins have led notification and facilitate communication with microcomputer. Built-in USB to
+RS232 transfer chip. Designed to be used for USB to TTL electronic projects. TTL interface
+output, is easy to connect to your MCU. Dual 3.3V and 5V Power output, work with 3.3V and 5v
+target device. Compact design.
+3. LEDs:
+Used as visual indicators to convey system status or specific events, enhancing user awareness.
+4. Breadboard:
+Facilitates temporary connection and prototyping of electronic components for testing and
+modification of the circuit design.
+5. Resistors and Coupling Capacitors (as required):
+Control current flow and filter signals within the circuit, ensuring proper functioning and
+preventing electrical issues.
+6. Jumper Wires (as required):
+Provides flexible connections between components on the breadboard for easy prototyping
