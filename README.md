@@ -22,8 +22,7 @@ real-world applications of gesture-controlled interfaces powered by the ATMega32
 microcontroller.
 
 Aim: To control LED with ATMega328p using hand detection in Python.
-
-   <img width="642" alt="Screenshot 2024-02-07 at 7 38 10 PM" src="https://github.com/Aditi-2903/Gestured-LED-Ambiance/assets/103983801/8e4cc0c8-bb2f-4ca1-8dd8-66179d78c2ac">
+      <img width="642" alt="Screenshot 2024-02-07 at 7 38 10 PM" src="https://github.com/Aditi-2903/Gestured-LED-Ambiance/assets/103983801/8e4cc0c8-bb2f-4ca1-8dd8-66179d78c2ac">
 
 Components:
 1. ATmega328p:
