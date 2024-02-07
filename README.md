@@ -63,6 +63,8 @@ processing.
 Cv zone:This is a Computer vision package that makes its easy to run Image processing and AI
 functions. At the core it uses OpenCV and Mediapipe libraries.
 
+<img width="642" alt="Screenshot 2024-02-07 at 7 41 46 PM" src="https://github.com/Aditi-2903/Gestured-LED-Ambiance/assets/103983801/c98190d4-26a1-48c3-9485-beed568b1dde">
+
 The significance of the project:
 The significance of a gesture-controlled LED system utilizing the Atmega 328P microcontroller
 lies in several key areas:
