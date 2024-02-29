@@ -58,6 +58,11 @@ functions. At the core it uses OpenCV and Mediapipe libraries.
 
 <img width="642" alt="Screenshot 2024-02-07 at 7 41 46 PM" src="https://github.com/Aditi-2903/Gestured-LED-Ambiance/assets/103983801/c98190d4-26a1-48c3-9485-beed568b1dde">
 
+
+Uploading gesture_led_ambiance.mp4…
+![WhatsApp Image 2024-02-29 at 12 30 55](https://github.com/Aditi-2903/Gestured-LED-Ambiance/assets/103983801/3bfdbe90-8f79-47af-96c3-4fec2a5f3103)
+
+
 The significance of the project:
 The significance of a gesture-controlled LED system utilizing the Atmega 328P microcontroller
 lies in several key areas:
