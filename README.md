@@ -12,14 +12,7 @@ translates them into commands for controlling an LED array.
 The application potential of this project is broad-reaching, spanning from domestic environments
 to industrial settings. In households, it offers a convenient way to control lighting systems
 without physical switches, providing a futuristic and ergonomic approach to illumination
-management. Moreover, its implementation in industrial automation can streamline processes by
-enabling touchless control in environments where manual intervention might be cumbersome or
-impractical.
-This report outlines the methodology, components used, circuit design, programming techniques,
-challenges encountered, and the achieved results. Additionally, it delves into the potential
-enhancements and scalability of this project, providing insights into further advancements and
-real-world applications of gesture-controlled interfaces powered by the ATMega328P
-microcontroller.
+management.
 
 Aim: To control LED with ATMega328p using hand detection in Python.
       <img width="642" alt="Screenshot 2024-02-07 at 7 38 10 PM" src="https://github.com/Aditi-2903/Gestured-LED-Ambiance/assets/103983801/8e4cc0c8-bb2f-4ca1-8dd8-66179d78c2ac">
